@@ -2,7 +2,7 @@
 
 ## If you found this repo useful, give it a STAR 🌠
 
-You can watch the video version of this repo on my youtube playlist. -> https://www.youtube.com/watch?v=7JZP345yVjw&list=PLdpzxOOAlwvLjb0vTD9BXLOwwLD_GWCmC
+Hello try to watch  the video version of this repo on my youtube playlist. -> https://www.youtube.com/watch?v=7JZP345yVjw&list=PLdpzxOOAlwvLjb0vTD9BXLOwwLD_GWCmC
 
 
 ## What is a container ?
@@ -46,7 +46,7 @@ To provide a better picture of files and folders that containers base images hav
 
 
 
-### Files and Folders in containers base images
+########################3 Files and Folders in containers base images
 
 ```
     /bin: contains binary executable files, such as the ls, cp, and ps commands.
